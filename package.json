@@ -1,0 +1,30 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "Herouku Link https://whispering-lowlands-44120.herokuapp.com/",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0",
+    "mysql2": "^1.4.0",
+    "sequelize": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexHimchak/sequelizedBurger.git"
+  },
+  "author": "Alex Himchak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexHimchak/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/AlexHimchak/sequelizedBurger#readme"
+}
