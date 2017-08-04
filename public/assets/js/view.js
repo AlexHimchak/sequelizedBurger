@@ -105,7 +105,7 @@ $(document).ready(function() {
     }
     return $newInputRow;
   }
-  // This function inserts a new todo into our database and then updates the view
+  // This function inserts a new burger into our database and then updates the view
   function insertTodo(event) {
     event.preventDefault();
     var todo = {
